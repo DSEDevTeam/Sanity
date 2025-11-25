@@ -1,0 +1,98 @@
+{
+  "nodes": [
+    {
+      "name": "DSE_Content",
+      "children": [
+        {
+          "name": "Scenes",
+          "children": [],
+          "isExpanded": false
+        },
+        {
+          "name": "Scripts",
+          "children": [
+            { "name": "Gameplay",   "children": [], "isExpanded": false },
+            { "name": "UI",         "children": [], "isExpanded": false },
+            { "name": "Editor",     "children": [], "isExpanded": false }
+          ],
+          "isExpanded": true
+        },
+        {
+          "name": "Art",
+          "children": [
+            { "name": "Textures",   "children": [], "isExpanded": false },
+            { "name": "Models",     "children": [], "isExpanded": false },
+            { "name": "Animations", "children": [], "isExpanded": false }
+          ],
+          "isExpanded": true
+        },
+        {
+          "name": "Audio",
+          "children": [
+            { "name": "Music",      "children": [], "isExpanded": false },
+            { "name": "SFX",        "children": [], "isExpanded": false },
+            { "name": "Voice",      "children": [], "isExpanded": false }
+          ],
+          "isExpanded": true
+        },
+        {
+          "name": "UI",
+          "children": [
+            { "name": "Sprites",    "children": [], "isExpanded": false },
+            { "name": "Fonts",      "children": [], "isExpanded": false }
+          ],
+          "isExpanded": true
+        },
+        {
+          "name": "Prefabs",
+          "children": [],
+          "isExpanded": false
+        },
+        {
+          "name": "Materials",
+          "children": [],
+          "isExpanded": false
+        },
+        {
+          "name": "Shaders",
+          "children": [],
+          "isExpanded": false
+        },
+        {
+          "name": "Resources",
+          "children": [],
+          "isExpanded": false
+        },
+        {
+          "name": "Plugins",
+          "children": [],
+          "isExpanded": false
+        },
+        {
+          "name": "StreamingAssets",
+          "children": [],
+          "isExpanded": false
+        }
+      ],
+      "isExpanded": true
+    },
+    {
+      "name": "Packages",
+      "children": [],
+      "isExpanded": false
+    },
+    {
+      "name": "ProjectSettings",
+      "children": [],
+      "isExpanded": false
+    },
+    {
+      "name": "Tests",
+      "children": [
+        { "name": "UnitTests",         "children": [], "isExpanded": false },
+        { "name": "IntegrationTests",  "children": [], "isExpanded": false }
+      ],
+      "isExpanded": true
+    }
+  ]
+}
